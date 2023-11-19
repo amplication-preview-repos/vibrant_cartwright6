@@ -1,5 +1,5 @@
 {
-  "name": "@enzo-2/server",
+  "name": "@enzo/server",
   "private": true,
   "scripts": {
     "start": "nest start",
